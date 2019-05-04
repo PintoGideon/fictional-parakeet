@@ -6,7 +6,7 @@
 ![Screenshot_2019-05-02 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174587-2ffa2c00-6e0f-11e9-8777-20cd289ac9a2.png)
 
 
-***CSS Worklfow ***
+***CSS Worklfow***
 
 ![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (1)](https://user-images.githubusercontent.com/15992276/57174588-2ffa2c00-6e0f-11e9-88d8-f74c59e9b982.png)
 
@@ -104,6 +104,9 @@ of the page.
 
 # Box Types
 
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (3)](https://user-images.githubusercontent.com/15992276/57174590-3092c280-6e0f-11e9-98b4-10b64f896446.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (4)](https://user-images.githubusercontent.com/15992276/57174591-3092c280-6e0f-11e9-8129-8ba0f95e609a.png)
+
 # Positioning Schemes
 
 - Normal Flow- Default Positional Scheme
@@ -140,6 +143,8 @@ of the page.
 - SASS is a CSS preprocessor, an extension of CSS that adds power and elegance to the basic language
 - SASS Source Code------> Compile CSS Code
 
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (5)](https://user-images.githubusercontent.com/15992276/57174592-3092c280-6e0f-11e9-9132-6ffb7ade7190.png)
+
 # Features
 
 1. Variables- For reusables values such as colors , font-sizes and spacing etch
@@ -157,6 +162,9 @@ of the page.
 7. Extends- To make different selectors inherit declarations that are common to all of them
 
 8. Control Directives- For Writing Complex code
+
+
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174593-3092c280-6e0f-11e9-9ef6-7718ace68d23.png)
 
 Codepen:  https://codepen.io/anon/pen/XQvybq
 
@@ -190,10 +198,6 @@ Codepen:  https://codepen.io/anon/pen/XQvybq
 
 
 
-![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (3)](https://user-images.githubusercontent.com/15992276/57174590-3092c280-6e0f-11e9-98b4-10b64f896446.png)
-![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (4)](https://user-images.githubusercontent.com/15992276/57174591-3092c280-6e0f-11e9-8129-8ba0f95e609a.png)
-![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (5)](https://user-images.githubusercontent.com/15992276/57174592-3092c280-6e0f-11e9-9132-6ffb7ade7190.png)
-![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174593-3092c280-6e0f-11e9-9ef6-7718ace68d23.png)
 
 
 
