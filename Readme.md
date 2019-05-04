@@ -71,6 +71,8 @@ Properties related to text are inherited: font-family, font-size, color etc.
 
 Why do we use rem units?
 
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174593-3092c280-6e0f-11e9-9ef6-7718ace68d23.png)
+
 It makes writing media queries very easier.
 **_1rem= 1_ root font-size\***
 
@@ -162,9 +164,6 @@ of the page.
 7. Extends- To make different selectors inherit declarations that are common to all of them
 
 8. Control Directives- For Writing Complex code
-
-
-![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174593-3092c280-6e0f-11e9-9ef6-7718ace68d23.png)
 
 Codepen:  https://codepen.io/anon/pen/XQvybq
 
