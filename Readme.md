@@ -177,5 +177,15 @@ Codepen:  https://codepen.io/anon/pen/XQvybq
 ```
 
 
+![Screenshot_2019-05-02 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (1)](https://user-images.githubusercontent.com/15992276/57174586-2ffa2c00-6e0f-11e9-91eb-2aebfe6e61af.png)
+![Screenshot_2019-05-02 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174587-2ffa2c00-6e0f-11e9-8777-20cd289ac9a2.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (1)](https://user-images.githubusercontent.com/15992276/57174588-2ffa2c00-6e0f-11e9-88d8-f74c59e9b982.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (2)](https://user-images.githubusercontent.com/15992276/57174589-3092c280-6e0f-11e9-9847-13a039be1f7e.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (3)](https://user-images.githubusercontent.com/15992276/57174590-3092c280-6e0f-11e9-98b4-10b64f896446.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (4)](https://user-images.githubusercontent.com/15992276/57174591-3092c280-6e0f-11e9-8129-8ba0f95e609a.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (5)](https://user-images.githubusercontent.com/15992276/57174592-3092c280-6e0f-11e9-9132-6ffb7ade7190.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174593-3092c280-6e0f-11e9-9ef6-7718ace68d23.png)
+
+
 
 
