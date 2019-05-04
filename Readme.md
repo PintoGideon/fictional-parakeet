@@ -1,5 +1,11 @@
 # Learning Design
 
+I wanted to revamp my personal portfolio using SASS but pick up a few skills on the way which led me to code up this website first: https://pintogideon.github.io/fictional-parakeet/
+
+Credits to Jonas Schmedtmann and his udemy course titled 'Advanced CSS'. Also, a special shoutout to Justin Rounds, my Web Design professor at Northeastern who shaped the way I approached Designs in a Website.
+
+I have some notes for future references:
+
 
 # Important Fundamentals of CSS
 
@@ -20,13 +26,9 @@
 The website needs to look cohesive in all screen sizes.
 
 1. Fluid Layouts- Use % rather than px for all layout related lengths.
-
 2. Media Queries
-
 3. Responsive Images- Images should adapt to the current viewport.
-
 4. Correct Units
-
 5. Desktop first vs mobile first
 
 ### Maintable and scalable code:
@@ -61,7 +63,7 @@ than one rule applies to a certain element.
 - Browser
 
 The cascade resolves conflicts in this order:
-Importance (Weight) > Specificity > Source Order
+***Importance (Weight) > Specificity > Source Order***
 
 Inheritance passes the value for some specific properties from parents to
 children- more maintainable code
