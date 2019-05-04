@@ -1,10 +1,19 @@
 # Learning Design
 
-### The Cool Parts
-
-clip-path:
 
 # Important Fundamentals of CSS
+
+![Screenshot_2019-05-02 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174587-2ffa2c00-6e0f-11e9-8777-20cd289ac9a2.png)
+
+
+***CSS Worklfow***
+
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (1)](https://user-images.githubusercontent.com/15992276/57174588-2ffa2c00-6e0f-11e9-88d8-f74c59e9b982.png)
+
+
+***Specificiy***
+
+![Screenshot_2019-05-02 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (1)](https://user-images.githubusercontent.com/15992276/57174586-2ffa2c00-6e0f-11e9-91eb-2aebfe6e61af.png)
 
 ### Responsive Design:
 
@@ -62,6 +71,8 @@ Properties related to text are inherited: font-family, font-size, color etc.
 
 Why do we use rem units?
 
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень ](https://user-images.githubusercontent.com/15992276/57174593-3092c280-6e0f-11e9-9ef6-7718ace68d23.png)
+
 It makes writing media queries very easier.
 **_1rem= 1_ root font-size\***
 
@@ -83,17 +94,20 @@ of the page.
 
 # THe Box Model
 
-Content: Text, Images etc;
-Padding: Transparent area around the content, inside of the box
-Border: Goes around the padding and the content
-Margin: Space between boxes;
-Fill area: Area the gets filled with background color
+- Content: Text, Images etc;
+- Padding: Transparent area around the content, inside of the box
+- Border: Goes around the padding and the content
+- Margin: Space between boxes;
+- Fill area: Area the gets filled with background color
 
 **_Total Width_**: right border + right padding + specified width + left padding + left border
 
 **_Total Height_**: top border + top padding + specified height + bottom padding + bottom border
 
 # Box Types
+
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (3)](https://user-images.githubusercontent.com/15992276/57174590-3092c280-6e0f-11e9-98b4-10b64f896446.png)
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (4)](https://user-images.githubusercontent.com/15992276/57174591-3092c280-6e0f-11e9-8129-8ba0f95e609a.png)
 
 # Positioning Schemes
 
@@ -122,14 +136,16 @@ Fill area: Area the gets filled with background color
 ```
 
 3. Architect
-   7-1 Pattern
-   7 different folders for partial Sass files and
-   1 main Sass file to import all other files to a compiled CSS Stylesheet
+   - 7-1 Pattern
+   - 7 different folders for partial Sass files and
+   - 1 main Sass file to import all other files to a compiled CSS Stylesheet
 
 # SASS
 
 - SASS is a CSS preprocessor, an extension of CSS that adds power and elegance to the basic language
 - SASS Source Code------> Compile CSS Code
+
+![Screenshot_2019-05-03 Продвинутый CSS и Sass Поднимите свой CSS на следующий уровень (5)](https://user-images.githubusercontent.com/15992276/57174592-3092c280-6e0f-11e9-9132-6ffb7ade7190.png)
 
 # Features
 
@@ -155,10 +171,32 @@ Codepen:  https://codepen.io/anon/pen/XQvybq
 # Good Parts of this Project
 
 ```
-transform: skewY(-7deg)
+{
 
+        background-size: cover;
+        height: 23rem;
+        background-blend-mode: screen;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        
+}
+
+
+{
+ 
+        padding: 1rem 1.5rem;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
+
+
+}
 
 ```
+
+
+
 
 
 
