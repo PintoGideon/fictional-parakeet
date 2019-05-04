@@ -1,8 +1,5 @@
 # Learning Design
 
-### The Cool Parts
-
-clip-path:
 
 # Important Fundamentals of CSS
 
@@ -83,11 +80,11 @@ of the page.
 
 # THe Box Model
 
-Content: Text, Images etc;
-Padding: Transparent area around the content, inside of the box
-Border: Goes around the padding and the content
-Margin: Space between boxes;
-Fill area: Area the gets filled with background color
+- Content: Text, Images etc;
+- Padding: Transparent area around the content, inside of the box
+- Border: Goes around the padding and the content
+- Margin: Space between boxes;
+- Fill area: Area the gets filled with background color
 
 **_Total Width_**: right border + right padding + specified width + left padding + left border
 
@@ -122,9 +119,9 @@ Fill area: Area the gets filled with background color
 ```
 
 3. Architect
-   7-1 Pattern
-   7 different folders for partial Sass files and
-   1 main Sass file to import all other files to a compiled CSS Stylesheet
+   - 7-1 Pattern
+   - 7 different folders for partial Sass files and
+   - 1 main Sass file to import all other files to a compiled CSS Stylesheet
 
 # SASS
 
@@ -155,8 +152,27 @@ Codepen:  https://codepen.io/anon/pen/XQvybq
 # Good Parts of this Project
 
 ```
-transform: skewY(-7deg)
+{
 
+        background-size: cover;
+        height: 23rem;
+        background-blend-mode: screen;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        
+}
+
+
+{
+ 
+        padding: 1rem 1.5rem;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
+
+
+}
 
 ```
 
