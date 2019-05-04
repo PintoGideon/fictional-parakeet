@@ -2,7 +2,7 @@
 
 I wanted to revamp my personal portfolio using SASS, but pick up a few skills on the way which led me to code up this website first: https://pintogideon.github.io/fictional-parakeet/
 
-Credits to Jonas Schmedtmann and his udemy course titled 'Advanced CSS'. Also, a special shoutout to Justin Rounds, my Web Design professor at Northeastern who shaped the way I approached Designs in a Website.
+Credits to Jonas Schmedtmann and his udemy course titled 'Advanced CSS'. Also, a special shoutout to Justin Rounds, my Web Design professor at Northeastern who shaped the way I approached Website Design.
 
 I have some notes for future references:
 
